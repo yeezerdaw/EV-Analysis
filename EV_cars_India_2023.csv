@@ -1,0 +1,31 @@
+Car_name,Car_price,Batter_cap,Drive_range,Power,Charge_time,transmission,Boot_space,Top_speed_kmph,Sales_24
+MG Comet EV,7.98,17.3,230,41.42,7,Automatic,350,101,6488
+Tata Tiago EV,10.34,19.2,250,67,0.58,Automatic,240,120,36890
+Tata Tigor EV,13.12,26,315,73.75,7.5,Automatic,316,120,10846
+MG ZS EV,25.39,50.3,461,174.33,9,Automatic,448,175,3169
+BYD Atto 3,34.195,60.48,521,201.15,10,Automatic,440,160,456
+Hyundai Kona Electric,23.93,39.2,452,134.1,6.16,Automatic,332,181,344
+Mahindra XUV400 EV,17.49,34.5,375,147.51,0.5,Automatic,378,150,2830
+Tata Nexon EV Max,18,40.5,453,141.04,15,Automatic,350,140,15000
+Mercedes-Benz EQS,1.99,17.3,230,41.42,7,Automatic,610,210,7600
+Audi e-tron GT,117,19.2,250,67,0.58,Automatic,240,152,1890
+BMW i4,75.7,26,315,73.75,7.5,Automatic,316,130,940
+BYD E6,29.15,50.3,461,174.33,8.8,Automatic,580,160,1350
+Porsche Taycan,1.91,60.48,521,201.15,9.8,Automatic,440,230,113
+Audi RS e-tron GT,119,39.2,452,134.1,6.16,Automatic,405,250,163
+Mahindra E Verito,9.3,34.5,375,41.57,0.5,Automatic,510,86,
+Strom Motors R3,4.5,40.5,453,141.04,15,Automatic,350,80,1140
+Tata Nexon EV Prime,16.57,71.7,415,93.87,1.5,Automatic,580,120,13100
+Hyundai IONIQ 5,44.95,29.2,320,56.22,10.5,Automatic,315,185,284
+Kia EV6,63.45,77.4,708,273.205,0.18,Automatic,520,260,68
+BMW iX,112,71,398,321.84,5.5,Automatic,500,200,435
+BMW i7,119,101.7,607,536.4,5.5,Automatic,500,250,372
+Mini Cooper SE,52.5,32.6,270,181.03,2.5,Automatic,211,150,203
+Audi e-tron,1.11,77.4,708,273.205,0.18,Automatic,569,200,310
+Citroen eC3,12.13,71,398,321.84,10.5,Automatic,315,200,1210
+Volvo XC40 Recharge,56.9,101.7,607.5,536.4,37,Automatic,452,180,560
+Jaguar I-Pace,1.2,32.6,270,181.03,2.5,Automatic,505,200,85
+Pravaig DEFY,39.5,107.8,857,633.63,0.3,Automatic,600,210,375
+PMV EaS E,4.79,93.4,444,,5.15,Automatic,30,245,
+Mercedes-Benz EQB,74.5,71,321,288.32,0.58,Automatic,495,200,263
+Mercedes-Benz EQC,99.5,83.9,541,335.25,13,Automatic,500,190,143
